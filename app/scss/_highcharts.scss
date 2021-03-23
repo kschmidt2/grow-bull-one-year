@@ -210,8 +210,8 @@
   }
   
   .highcharts-color-2 {
-    fill: $purple-primary;
-    stroke: $purple-primary;
+    fill: $purple-secondary-5;
+    stroke: $purple-secondary-5;
   }
   
   .highcharts-color-3 {
@@ -466,11 +466,11 @@
   //   fill-opacity: 0.05;
   // }
   
-  // .highcharts-plot-line {
-  //   fill: none;
-  //   stroke: #999999;
-  //   stroke-width: 1px;
-  // }
+  .highcharts-plot-line {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 1px;
+  }
   
   /* Highcharts More and modules */
   // .highcharts-boxplot-box {
